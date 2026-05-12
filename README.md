@@ -8,4 +8,4 @@ Projeto simples de login para desenvolvimento pessoal e profissional:
 ## Exemplo
 
 
-<img width="1920" height="1020" alt="area de login" src="https://github.com/user-attachments/assets/d29447d7-f700-42d6-955f-1f608fd9bf2c" />
+<img width="1920" height="880" alt="area de login" src="https://github.com/user-attachments/assets/e5119894-57b1-46fd-be0b-bba720b7099d" />
